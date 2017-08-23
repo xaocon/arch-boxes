@@ -146,13 +146,6 @@
             },
             {
                 "type": "vagrant-cloud",
-                "only": ["virtualbox-iso"],
-                "access_token": "{{user `atlas_token`}}",
-                "box_tag": "archlinux/archlinux",
-                "version": "{{isotime \"2006.01.02\"}}"
-            },
-            {
-                "type": "vagrant-cloud",
                 "only": ["qemu"],
                 "access_token": "{{user `atlas_token`}}",
                 "box_tag": "archlinux/archlinux",
