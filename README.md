@@ -1,5 +1,5 @@
 # arch-boxes
-[![Build Status](https://travis-ci.org/xaocon/arch-boxes.svg?branch=master)](https://travis-ci.org/xaocon/arch-boxes)
+[![Build Status](https://travis-ci.org/xaocon/arch-boxes.svg?branch=personal)](https://travis-ci.org/xaocon/arch-boxes)
 
 Arch-boxes provides automated builds of the Arch Linux releases for
 different providers and post-processors. Check the providers or post-processor sections if you want to know
